@@ -22,7 +22,7 @@ httplib2==0.9.1
 idna==2.0
 ipaddress==1.0.16
 lockfile==0.12.2
-lxml==3.7.3
+lxml==4.6.3
 Mako==1.0.3
 oauthlib==1.0.3
 olefile==0.44
