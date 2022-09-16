@@ -23,7 +23,7 @@ idna==2.0
 ipaddress==1.0.16
 lockfile==0.12.2
 lxml==3.7.3
-Mako==1.0.3
+Mako==1.2.2
 oauthlib==1.0.3
 olefile==0.44
 Pillow==4.1.1
